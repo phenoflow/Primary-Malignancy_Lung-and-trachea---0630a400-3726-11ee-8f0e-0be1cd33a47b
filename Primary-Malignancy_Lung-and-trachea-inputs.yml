@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-bronchu---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-neoplasm---primary.py
+inputModule4:
+  class: File
+  path: python/upper-primary-malignancy_lung-and-trachea---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-pancoast's---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-middle---primary.py
+inputModule7:
+  class: File
+  path: python/lower-primary-malignancy_lung-and-trachea---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-carcinoma---primary.py
+inputModule10:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-history---primary.py
+inputModule11:
+  class: File
+  path: python/lung---primary.py
+inputModule12:
+  class: File
+  path: python/primary-malignancy_lung-and-trachea-neoplasm---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
